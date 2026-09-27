@@ -1,0 +1,12 @@
+id,name,floor,width,height,sillHeight
+win_1,EG-Fenster-6,1,1.2,1.5,0.9
+win_2,EG-Fenster-7,1,1.2,1.5,0.9
+win_3,EG-Fenster-4,1,1.2,1.5,0.9
+win_4,EG-Fenster-5,1,1.2,1.5,0.9
+win_5,EG-Fenster-8,1,1.2,1.5,0.9
+win_6,EG-Fenster-9,1,1.2,1.5,0.9
+win_7,EG-Fenster-1,1,1.2,1.5,0.9
+win_8,EG-Fenster-2,1,1.2,1.5,0.9
+win_9,EG-Fenster-3,1,1.2,1.5,0.9
+win_10,OG-Fenster-2,2,1.2,1.5,0.9
+win_11,OG-Fenster-1,2,1.2,1.5,0.9
