@@ -1,3 +1,0 @@
-﻿source_id,target_id,rel_type,properties
-stair_1,storey_1,CONNECTS_FROM,"{""level"": ""base""}"
-stair_1,storey_2,CONNECTS_TO,"{""level"": ""upper""}"

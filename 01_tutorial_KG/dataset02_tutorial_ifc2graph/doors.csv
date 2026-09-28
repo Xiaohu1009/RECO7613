@@ -1,6 +1,0 @@
-id,name,floor,type
-door_1,Innentuer-1,1,InteriorDoor
-door_2,Innentuer-2,1,InteriorDoor
-door_3,Innentuer-3,1,InteriorDoor
-door_4,Haustuer,1,Entrance
-door_5,Terrassentuer,1,Entrance

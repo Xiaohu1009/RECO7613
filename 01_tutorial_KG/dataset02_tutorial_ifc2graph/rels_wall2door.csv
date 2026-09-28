@@ -1,6 +1,0 @@
-﻿source_id,target_id,rel_type
-wall_2,door_1,HAS_DOOR
-wall_4,door_2,HAS_DOOR
-wall_4,door_3,HAS_DOOR
-wall_6,door_4,HAS_DOOR
-wall_7,door_5,HAS_DOOR
