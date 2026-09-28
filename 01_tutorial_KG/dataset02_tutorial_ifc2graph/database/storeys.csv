@@ -1,0 +1,3 @@
+id,name,floor,type,elevation
+storey_1,Erdgeschoss,1,GroundFloor,0.0
+storey_2,Dachgeschoss,2,UpperFloor,2.7

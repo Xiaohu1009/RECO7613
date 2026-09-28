@@ -1,0 +1,7 @@
+﻿source_id,target_id,rel_type,relation
+roof_left,wall_10,INTERSECTS,bearing
+roof_left,wall_11,INTERSECTS,bearing
+roof_left,wall_12,INTERSECTS,bearing
+roof_right,wall_10,INTERSECTS,bearing
+roof_right,wall_12,INTERSECTS,bearing
+roof_right,wall_13,INTERSECTS,bearing

@@ -1,0 +1,14 @@
+source_id,target_id,rel_type,angle,connectionType
+wall_1,wall_2,CONNECTED_TO,90,corner
+wall_2,wall_3,CONNECTED_TO,90,corner
+wall_3,wall_4,CONNECTED_TO,90,corner
+wall_4,wall_5,CONNECTED_TO,90,corner
+wall_5,wall_6,CONNECTED_TO,90,corner
+wall_6,wall_7,CONNECTED_TO,90,corner
+wall_7,wall_8,CONNECTED_TO,90,corner
+wall_8,wall_9,CONNECTED_TO,90,corner
+wall_9,wall_1,CONNECTED_TO,90,corner
+wall_10,wall_11,CONNECTED_TO,90,corner
+wall_11,wall_12,CONNECTED_TO,90,corner
+wall_12,wall_13,CONNECTED_TO,90,corner
+wall_13,wall_10,CONNECTED_TO,90,corner

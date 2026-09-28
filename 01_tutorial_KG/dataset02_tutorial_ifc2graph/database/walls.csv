@@ -1,0 +1,14 @@
+id,name,floor,thickness,height,length,material,isExternal
+wall_1,Wand-Int-ERDG-4,1,0.15,2.8,4.2,Brick,FALSE
+wall_2,Wand-Int-ERDG-2,1,0.15,2.8,4.2,Brick,FALSE
+wall_3,Wand-Int-ERDG-1,1,0.15,2.8,3.7,Brick,FALSE
+wall_4,Wand-Int-ERDG-3,1,0.15,2.8,7.2,Brick,FALSE
+wall_5,Wand-Int-ERDG-5,1,0.15,2.8,3.5,Brick,FALSE
+wall_6,Wand-Ext-ERDG-1,1,0.3,2.8,10,Concrete,TRUE
+wall_7,Wand-Ext-ERDG-4,1,0.3,2.8,12,Concrete,TRUE
+wall_8,Wand-Ext-ERDG-3,1,0.3,2.8,10,Concrete,TRUE
+wall_9,Wand-Ext-ERDG-2,1,0.3,2.8,12,Concrete,TRUE
+wall_10,Wand-Ext-OG-1,2,0.3,3,10,Concrete,TRUE
+wall_11,Wand-Ext-OG-2,2,0.3,0.5,12,Concrete,TRUE
+wall_12,Wand-Ext-OG-3,2,0.3,3,10,Concrete,TRUE
+wall_13,Wand-Ext-OG-4,2,0.3,0.5,12,Concrete,TRUE
