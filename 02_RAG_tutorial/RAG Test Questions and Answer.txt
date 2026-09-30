@@ -1,0 +1,31 @@
+RAG Test Questions and Answer
+1. **Question:** How many days does the Buildings Department (BD) take to provide a decision on a pre-submission enquiry?
+   **Answer:** The Buildings Department will provide a decision within **45 days**.
+
+2. **Question:** If the Buildings Department issues a letter of comments on a pre-acceptance application, within how many days must the Authorized Person (AP) and Registered Structural Engineer (RSE) clarify or respond to all comments before the application is considered abandoned?
+   **Answer:** They must clarify or respond to all comments within **30 days from the date of the letter of comments**.
+
+3. **Question:** According to Table 1 of Appendix B, what is the minimum qualification required for a supervisor under the AP Stream, and how frequently must supervision be carried out?
+   **Answer:** The minimum qualification is **T3 level**, equivalent to a **Grade T3 Technically Competent Person** as specified in the Code of Practice for Site Supervision. The required supervision frequency is **once a week**.
+
+4. **Question:** As an alternative arrangement to quality audits at the prefabrication factory, what is the minimum sampling rate for on-site quality audits of MiC modules delivered to the construction site?
+   **Answer:** The sampling rate must be at least **1% of each type of modular unit delivered to the construction site**.
+
+5. **Question:** What qualification or certification must a factory have in order to manufacture Modular Integrated Construction (MiC) modules?
+   **Answer:** The modules must be manufactured by a factory that holds a valid **Full Certificate** issued by the **Building Technology Research Institute (BTRi)** under the MiC Manufacturer Accreditation Scheme, or a factory that holds **ISO 9001 or an equivalent quality assurance certification**.
+
+6. **Question:** If a pre-acceptance application is rejected, how will any subsequent amended application be processed, and what is the time frame for the Buildings Department to make a decision?
+   **Answer:** Any subsequent amended application will be processed according to the time frame for a new application, and the Buildings Department will inform the applicant of its decision within **45 days**.
+
+7. **Question:** When a quality audit is conducted by videotelephony, what are the requirements for the colour, resolution, and storage medium of the recorded video?
+   **Answer:** The video must be recorded **in colour**, have a resolution of at least **480p**, and be stored on a **non-rewritable DVD-ROM**.
+
+8. **Question:** For the on-site quality audit of MiC components delivered to the construction site under the reinforcement works of the RSE Stream, how many locations must be measured using a covermeter, and how many readings must be taken at each location?
+   **Answer:** Measurements must be taken at **6 locations**, with **6 readings at each location** within a **450 mm × 450 mm** area.
+
+9. **Question:** After the initial site inspection of the prefabrication factory has been completed, how frequently must the AP, RSE, and AS of the RC conduct quality audit inspections of the prefabrication factory?
+   **Answer:** Quality audit inspections must be conducted **at least once a month**.
+
+10. **Question:** If the AP/RSE adopts the alternative arrangement of conducting on-site quality audits of MiC components delivered to the construction site, how far in advance must they notify the Building Authority in writing?
+    **Answer:** They must notify the Building Authority **one month before the commencement of production work at the prefabrication factory**.
+
